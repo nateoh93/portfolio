@@ -3,3 +3,8 @@
 #detail .close {
     cursor: pointer;
 }
+
+.col-sm-6.mx-auto.mt-5.animated {
+    display: flex;
+    justify-content: center;
+}
