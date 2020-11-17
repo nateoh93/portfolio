@@ -611,15 +611,15 @@ footer.main-footer p.social a {
   transition: all 0.3s;
 }
 
-footer.main-footer p.social a.github {
+footer.main-footer p.social a.linkedin {
   background-color: #4460ae;
 }
 
-footer.main-footer p.social a.gplus {
+footer.main-footer p.social a.github {
   background-color: #c21f25;
 }
 
-footer.main-footer p.social a.linkedin {
+footer.main-footer p.social a.gplus {
   background-color: #cd4378;
 }
 
